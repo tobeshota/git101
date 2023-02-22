@@ -2,3 +2,4 @@
 
 こんにちは、GitHub!
 Hello, GitHub!
+Guten Tag!, Github!
