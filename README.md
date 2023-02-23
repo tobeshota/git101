@@ -12,3 +12,4 @@ fix 2
 fix 3
 fix a
 fix b
+fix c
