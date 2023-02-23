@@ -6,3 +6,4 @@ Guten Tag!, GitHub!
 Bonjour GitHub!
 はおー
 チャオッ
+git hub!
