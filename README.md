@@ -8,3 +8,4 @@ Bonjour GitHub!
 チャオッ
 git hub!
 fix 1
+fix 2
