@@ -7,3 +7,4 @@ Bonjour GitHub!
 はおー
 チャオッ
 git hub!
+fix 1
